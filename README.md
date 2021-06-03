@@ -9,7 +9,7 @@ Simulador Universal de Máquinas de Turing (MTs)
 
 
 ## Exemplo: 
-#### Entrada
+### Entrada
 ```
 9
 3 0 1 #
@@ -51,7 +51,7 @@ Simulador Universal de Máquinas de Turing (MTs)
 101011101#101011001
 ```
 
-#### Saída desejada
+### Saída desejada
 ```
 rejeita
 aceita
