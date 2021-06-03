@@ -2,12 +2,6 @@
 Simulador Universal de Máquinas de Turing (MTs)
 
 
-## Notas
-##### Apenas máquinas determinísticas serão testadas.
-##### Apenas linguagens recursivas (Turing-decidíveis) serão testadas, ou seja, linguagens para as quais a máquina de Turing sempre para.
-##### Assuma sempre que a cadeia de entrada é colocada na primeira posição da fita e, em seguida, temos um símbolo em branco (B).
-
-
 ## Exemplo: 
 ### Entrada
 ```
@@ -64,3 +58,9 @@ aceita
 rejeita
 rejeita
 ```
+
+
+## Notas
+##### Apenas máquinas determinísticas serão testadas.
+##### Apenas linguagens recursivas (Turing-decidíveis) serão testadas, ou seja, linguagens para as quais a máquina de Turing sempre para.
+##### Assuma sempre que a cadeia de entrada é colocada na primeira posição da fita e, em seguida, temos um símbolo em branco (B).
